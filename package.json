@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "My simplest node js boilerplate",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "keywords": [
+    "boilerplate",
+    "nodejs",
+    "javascript"
+  ],
+  "author": "Silvio Pilato",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
+  },
+  "dependencies": {
+    "config": "^3.1.0"
+  }
+}
